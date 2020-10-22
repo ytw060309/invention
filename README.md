@@ -17,7 +17,7 @@
 > > **- 확장자** : .apk (Android Application Package)   
 > > **- 실행 환경** : Android (ios 사용 불가)   
 > > **- 다운로드 경로** : <a href="https://docs.google.com/uc?export=download&id=15rVb8CEEkq_7d8MjAv7yjYX537g_i_ur"> APK 다운로드</a>   
->    
+> >  
 > >   **- 설치 방법**   
 > > >    1. apk 파일을 다운로드한다.   
 > > >    2. 스마트폰에서 다운로드한 위치에 들어가 SwipeVirtualKeyboardInstaller.apk 파일을 찾아 실행시킨다.   
