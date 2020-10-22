@@ -4,7 +4,7 @@
 
 ---
 
-> ## Info 
+> ## **Info** 
 
 > **- 제목** : 스와이프 방식의 모바일 가상 키보드   
 > **- 이름** : 유태우   
@@ -13,7 +13,7 @@
 ---
 
 
-> ## Download   
+> ## **Download**   
 
 > **- 이름** : SwipeVirtualKeyboardInstaller.apk   
 > **- 확장자** : .apk (Android Application Package)   
@@ -29,4 +29,4 @@
  
 ---
 
-> ## Keyboard Manual
+> ## **Keyboard Manual**
