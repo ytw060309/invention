@@ -1,10 +1,10 @@
-# 2020학년도 분당중 발명창의력대회
+# **2020학년도 분당중 발명창의력대회**
 
-스와이프 방식의 모바일 가상 키보드
+*스와이프 방식의 모바일 가상 키보드*
 
 ---
 
-> ## **Info**   
+> ## Info   
 >    **- 제목** : 스와이프 방식의 모바일 가상 키보드   
 >    **- 이름** : 유태우   
 >    **- 학번** : 20110   
@@ -12,7 +12,7 @@
 ---
 
 
-> ## **Download**
+> ## Download   
 >    **- 이름** : SwipeVirtualKeyboardInstaller.apk   
 >    **- 확장자** : .apk (Android Application Package)   
 >    **- 실행 환경** : Android (ios 사용 불가)   
@@ -27,4 +27,4 @@
  
 ---
 
-> ## **Keyboard Manual**
+> ## Keyboard Manual
