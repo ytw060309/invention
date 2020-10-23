@@ -3,6 +3,8 @@
 *스와이프 방식의 모바일 가상 키보드*
 
 ---
+<img src="ic_launcher.png" width="200">
+---
 
 > ## **Info** 
   
@@ -33,6 +35,8 @@
    
    
 > ## **Keyboard Manual**
+
+<img src="img.jpg" width="500">
    
 **- 자음의 입력**   
 1. 일반 입력 : 자음 버튼의 `첫번째 자음`이 입력된다.   
