@@ -3,8 +3,6 @@
 *스와이프 방식의 모바일 가상 키보드*
 
 ---
-<img src="ic_launcher.png" width="200">
----
 
 > ## **Info** 
   
