@@ -36,7 +36,7 @@
    
 > ## **Keyboard Manual**
 
-<img src="img.jpg" width="500">
+<img src="img.jpg" width="200">
    
 **- 자음의 입력**   
 1. 일반 입력 : 자음 버튼의 `첫번째 자음`이 입력된다.   
