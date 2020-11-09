@@ -19,7 +19,7 @@
 **- 이름** : Keyboard_Installer.apk   
 **- 확장자** : .apk (Android Application Package)   
 **- 실행 환경** : Android (ios 사용 불가)   
-**- 다운로드 경로** : <a href="https://docs.google.com/uc?export=download&id=1FndFV6EiUGab563KjtKxCeeTmP4uUiRU">[APK 다운로드]</a>   
+**- 다운로드 경로** : <a href="https://docs.google.com/uc?export=download&id=1KnHmrEwjHHvVYLBX77oJUil3fgb4MptN">[APK 다운로드]</a>  
 
 **- 설치 방법**   
   1. apk 파일을 다운로드한다.   
